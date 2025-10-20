@@ -57,6 +57,11 @@ Credit reporting, credit repair services, or other personal consumer reports    
                                                              macro avg       0.75      0.72      0.73    264641
                                                           weighted avg       0.87      0.87      0.87    264641
 
+```
+<img width="1322" height="1209" alt="image" src="https://github.com/user-attachments/assets/84dc9232-c8b9-4730-a87a-db14aa348a26" />
+
+### 2. Logistic Regression
+```text
 
                                                                         precision    recall  f1-score   support
 
@@ -68,6 +73,11 @@ Credit reporting, credit repair services, or other personal consumer reports    
                                                               accuracy                           0.91    264641
                                                              macro avg       0.85      0.77      0.79    264641
                                                           weighted avg       0.91      0.91      0.91    264641    
+```
+<img width="1322" height="1209" alt="image" src="https://github.com/user-attachments/assets/7a5795fa-c63d-4d2e-ad1a-823cdacc7944" />
+
+### 3. Linear SVM (Support Vector Machine)
+```text
 
 
                                                                         precision    recall  f1-score   support
@@ -82,4 +92,6 @@ Credit reporting, credit repair services, or other personal consumer reports    
                                                           weighted avg       0.91      0.91      0.91    264641       
 
 ```
+<img width="1322" height="1209" alt="image" src="https://github.com/user-attachments/assets/aa285d22-d479-4b7c-a690-32202a0f6e3b" />
+
                                                
